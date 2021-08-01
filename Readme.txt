@@ -1,0 +1,1 @@
+Code where I try to implement Policy Gradient Sum algorithm on the optimal power allocation in multi-user interference channel.
